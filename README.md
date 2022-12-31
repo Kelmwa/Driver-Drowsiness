@@ -7,6 +7,9 @@ This project aims at reducing the number of road accidents
 
 
 Kelvin Mwangi Gathiru
+
+         &
+
 Brian Muraguri Mungai
 
 
